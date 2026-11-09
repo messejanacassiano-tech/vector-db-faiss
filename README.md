@@ -29,11 +29,17 @@ Repositório desenvolvido como atividade prática da disciplina de Tópicos Espe
 
 ## 💡 Exemplo de Pergunta e Resposta
 
-* **Pergunta do Usuário:** 
+* **1º Pergunta do Usuário:**
   > *"O que são embeddings e para que serve o FAISS?"*
 
 * **Resposta Recuperada do Banco Vetorial (FAISS):**
   > *"Os embeddings são representações vetoriais de palavras ou textos que capturam o significado semântico, permitindo que os modelos processem linguagem natural de forma eficiente. O FAISS (Facebook AI Similarity Search) é uma biblioteca desenvolvida para busca eficiente de similaridade e agrupamento de vetores densos em bancos de dados vetoriais."*
 
+* **2º Pergunta do Usuário:**
+  > *"O que é Inteligência Artificial?"*
+
+* **RESPOSTA RECUPERADA DO VECTORDB (FAISS):**
+  > *"A Inteligência Artificial (IA) é um campopda ciência da computação dedicado ao desenvolvimento de sistemas capazes de realizar tarefas que
+normalmente exigiriam inteligência humana."*
 ---
 **Fonte dos dados:** Artigo Educacional sobre Fundamentos de IA / Material didático da disciplina.
